@@ -40,6 +40,7 @@
 - Koustav Kumar
 - Srijan (Just exploring Open Source world !!).
 - Shruti
+- Soham More [Github](https://github.com/SohamMore100)
 - [Shaun Liew](https://github.com/shaunliew)
 - [Pranav Pratap Singh](https://github.com/Pranav108)
 - [Soumya Dash](https://github.com/soumya-dash3)
